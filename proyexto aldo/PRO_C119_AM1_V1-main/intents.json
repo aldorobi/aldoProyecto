@@ -1,0 +1,31 @@
+{"intents": [
+    {"tag" : "saludo", 
+     "patterns": ["hi","hello","good morning"],
+     "responses": ["hi","hello","good morning !"]
+    },
+    {"tag" : "adioses", 
+    "patterns": ["goodbye","good night","good bye","see you later"],
+    "responses": ["goodbye!","good night!","good bye!","see you later!"]
+   },
+   {"tag" : "graciases", 
+   "patterns": ["thanks","thank you","thank's"],
+   "responses": ["no problem!","all good!","your lack of gramatical skill perturbs me, but no problem!"]
+  },
+  {"tag" : "no seseses", 
+  "patterns": [""],
+  "responses": ["im not sure i understand..","are you sure there are no grammatical errors?..", "did you even write something?..", "no entiendo, lo puedes repetir? :/"]
+ },
+
+ {"tag" : "info", 
+ "patterns": ["can you tell me something interesting?","tell me something interesting","tell me something interesting.","tell me a fact","im bored,tell me something interesting"],
+ "responses": ["sure!,American flags left on the moon will eventually get bleached white by the sun.","While they are hibernating, bears do not urinate. Their bodies convert waste into protein.","White-faced capuchin monkeys greet each other by sticking their fingers up each others noses.","Gummy bears were originally called dancing bears.","New Zealand has more cats per person than any other country in the world.","The hagfish is the only animal that has a skull but no spine.","People weigh less if they stand at the equator than if they stand at the North or South poles.","At their closest points, the U.S and the Soviet Union are over 2 miles (3km) apart.","The yo-yo was originally a weapon used in the Philippine jungle.","Victor Hugos novel Les Miserable contains a sentence that is 823 words long.","Alexander the Great was the first person to be pictured on a coin.","FDRs portrait was on the dime because of his association with the March of Dimes charity.","The sun weighs 2,000 million million million million tons.","Shoes that were specific to left and right were not made until the Civil War.","The Turks call the turkey an “American bird.”","Lightning kills about 10,000 people a year worldwide, more people than tornadoes or flooding.","At an average of 15 breaths per minute, we take about 400 million breaths during a lifetime. This is equivalent to about 53 million gallons of air.","The shiniest living thing on earth is the Pollia Condensata, an African fruit.","The bee hummingbird drinks from up to 1,500 flowers a day."]
+},
+
+{"tag" : "jokes", 
+"patterns": ["can you tell me a joke?","tell me a joke","tell me something joke.","tell me somthing funny","im bored,tell me something fun"],
+"responses": [" What do you call a pony with a cough?. A little horse.","What do kids play when their mom is using the phone? Bored games.","What do you call a fake noodle? An impasta.","Why did the hipster burn his mouth? He drank the coffee before it was cool.","Why did the nurse need a red pen? In case she needed to draw blood.","What's the best thing about Switzerland? I don't know but the flag is a big plus.","Want to hear a construction joke? Oh never mind, I'm still working on that one.","Why don't scientists trust atoms? Because they make up everything","I poured root beer in a square glass. Now I just have beer.","Rest in peace, boiling water. You will be mist.","I told my wife she was drawing her eyebrows too high. She looked at me surprised.","Have you heard about the new restaurant called Karma? There's no menu. You just get what you deserve.","What did the shark say when he ate the clownfish? 'This tastes a little funny.'"]
+}
+  ]
+}
+
+    
